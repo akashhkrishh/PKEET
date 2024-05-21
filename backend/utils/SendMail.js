@@ -13,7 +13,7 @@ const SendMail = async (email,filename, Key) => {
     // Setup email data
     const mailOptions = {
         from: 'mailauthoritycenter@gmail.com', // Sender address
-        to: 'akashhkrishh@gmail.com', // List of recipients
+        to: 'merinrijo708@gmail.com', // List of recipients
         subject: 'Secret Key', // Subject line
         // text: `File Name:, Secret Key:  `, // Plain text body?
         // You can also use HTML in the email body:

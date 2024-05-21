@@ -80,11 +80,11 @@ return (
 
         <div className='bg-secondary border-c_blue text-white rounded-md flex flex-col gap-6 shadow-md border  p-4 w-[350px]'>
             <div className=' w-full'>
-                    <h1 className='text-center text-2xl font-semibold'>Share File</h1>
+                    <h1 className='text-center text-2xl font-semibold'>File Download</h1>
             </div>
 
             <div className="">
-                <label htmlFor="fileId" className="block mb-2 text-sm font-medium ">File Download</label>
+                <label htmlFor="fileId" className="block mb-2 text-sm font-medium ">Select File</label>
                 <select name='fileId'  defaultValue={''} onChange={handleInputChange} id="fileId" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500  font-semibold outline-none focus:border-blue-500 block w-full p-2.5">
 
                     <option value={''} disabled selected>Choose a File</option>

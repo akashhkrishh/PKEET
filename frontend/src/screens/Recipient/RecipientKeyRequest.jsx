@@ -59,7 +59,7 @@ return (
     <div className=' h-full w-full flex items-center justify-center gap-4 '>
       <div className='w-2/3 rounded-sm break-words overflow-auto h-full text-black'>
       <div className='w-full h-full py-4 flex flex-col gap-4'>
-          <h1 className='py-4 text-c_blue font-bold text-xl'>Uploaded Files</h1>
+          <h1 className='py-4 text-c_blue font-bold text-xl'>Key Request</h1>
     
       <div className="overflow-x-auto w-full rounded-sm">
         <table className="w-full bg-white shadow-md rounded-sm">
